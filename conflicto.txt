@@ -1,3 +1,2 @@
 Contenido base
-Texto escrito en main
-De nuevo
+Texto escrito en ramaConflicto
